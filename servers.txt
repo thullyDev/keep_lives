@@ -1,4 +1,4 @@
 https://godsapi.onrender.com/
-https://gogoanime-thullydev-api.onrender.com/
 https://cors-thullydev.onrender.com/
+https://gogoanime-thullydev-api.onrender.com/
 https://animehoshiapi.onrender.com/
