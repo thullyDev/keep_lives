@@ -1,0 +1,3 @@
+https://godsapi.onrender.com/
+https://gogoanime-thullydev-api.onrender.com/
+https://cors-thullydev.onrender.com/
